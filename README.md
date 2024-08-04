@@ -1,1 +1,1 @@
-This is my first project of front-end web development
+my first html & css project
